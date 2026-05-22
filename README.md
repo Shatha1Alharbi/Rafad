@@ -100,7 +100,7 @@ The project includes several system analysis and design artifacts, including:
 <img width="870" height="698" alt="image" src="https://github.com/user-attachments/assets/2a19f348-b949-4816-aff7-6c8c4486169a" />
 
 ### Use Case Diagram
-<img width="760" height="948" alt="image" src="https://github.com/user-attachments/assets/fd750e57-d2b8-4659-94c1-b8de0b0f2bc3" />
+<img width="945" height="1115" alt="image" src="https://github.com/user-attachments/assets/17a369e4-1c1d-43fd-982d-355e54bf2673" />
 
 ---
 
