@@ -71,35 +71,44 @@ The project includes several system analysis and design artifacts, including:
 ## Screenshots
 
 ### Login Interface
-![Login Screen](images/login.png)
+<img width="223" height="469" alt="image" src="https://github.com/user-attachments/assets/a0329986-a72d-42d9-94b0-989c803ca330" />
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+<img width="226" height="471" alt="image" src="https://github.com/user-attachments/assets/310bccb9-8c91-4578-a5b0-65390be8cb15" />
 
 ### Medication Management
-![Medication Management](images/medications.png)
+<img width="779" height="502" alt="image" src="https://github.com/user-attachments/assets/0d2ec954-c348-4fa4-a1a2-a57568fcda8d" />
 
 ### Accessibility Settings
-![Accessibility Settings](images/accessibility.png)
+<img width="633" height="628" alt="image" src="https://github.com/user-attachments/assets/02f7c3c4-a46d-4a86-ba40-b34eb900dffa" />
+
+### Adding Readings 
+<img width="1017" height="504" alt="image" src="https://github.com/user-attachments/assets/22751525-a750-4daf-b5f9-2ab958af214f" />
 
 ### Health Reports
-![Health Reports](images/reports.png)
+<img width="545" height="542" alt="image" src="https://github.com/user-attachments/assets/67a90e11-5307-4be4-bd26-8bacfcb474b0" />
+
+### Chatbot 
+<img width="583" height="588" alt="image" src="https://github.com/user-attachments/assets/d0db7c5f-3ed7-4607-acd3-9d8aceed3c23" />
+
 
 ---
 
 ## System Diagrams
 
 ### Class Diagram
-![Class Diagram](images/class-diagram.png)
+<img width="870" height="698" alt="image" src="https://github.com/user-attachments/assets/2a19f348-b949-4816-aff7-6c8c4486169a" />
 
-### Sequence Diagram
-![Sequence Diagram](images/sequence-diagram.png)
+### Use Case Diagram
+<img width="760" height="948" alt="image" src="https://github.com/user-attachments/assets/fd750e57-d2b8-4659-94c1-b8de0b0f2bc3" />
 
 ---
 
 ## Team
-Graduation Project – Princess Nourah University  
-Bachelor of Science in Information Systems
+Shatha Alharbi
+Danah Alharbi
+Muzun Alhallabi
+Danah Alzhrani
 
 ---
 
