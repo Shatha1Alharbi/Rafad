@@ -33,6 +33,7 @@ The system helps users manage medications, track health readings, receive remind
 - Flutter
 - Android Studio 
 - Appwrite
+- GPT API
 - Figma
 - Draw.io
 - UML Modeling
