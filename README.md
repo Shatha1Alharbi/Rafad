@@ -105,10 +105,7 @@ The project includes several system analysis and design artifacts, including:
 ---
 
 ## Team
-Shatha Alharbi
-Danah Alharbi
-Muzun Alhallabi
-Danah Alzhrani
+Shatha Alharbi - Danah Alharbi - Muzun Alhallabi - Danah Alzhrani
 
 ---
 
