@@ -31,10 +31,10 @@ The system helps users manage medications, track health readings, receive remind
 
 ## Technologies Used
 - Flutter
-- Firebase
+- Android Studio 
+- Appwrite
 - Figma
 - Draw.io
-- WCAG Accessibility Standards
 - UML Modeling
 - System Analysis & Design
 
